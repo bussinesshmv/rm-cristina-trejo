@@ -1,0 +1,30 @@
+{    
+    "celular":"5549767417",
+    "telefono":"5549767417",
+    "sitioWeb":"https://regalamomentos.com.mx/",
+    "email":"ventas@regalamomentos.com.mx",
+    "nombre":"Cristina Trejo Hernandez",
+    "puesto":"CEO",
+    "empresa":"Regala Momentos",
+    "direccion":"CDMX, Area metropolitana",
+    "mapsFrame":"",
+    "resumen":"Diseño floral y ambientación de espacios, detalles personalizados, eventos sociales y empresariales, calidad y servicio.",
+    "socialNetwork":{
+        "facebook":"https://www.facebook.com/Regalamomentoscommx-333517497530135",
+        "twitter":"",
+        "instagram":"https://www.instagram.com/regalamomentos.com.mx/",
+        "github":"",
+        "pinterest":"",
+        "linkedin":""
+    },
+    "compartir":{
+        "facebook":"https://www.facebook.com/sharer/sharer.php?u=https://bussinesshmv.github.io/rm-cristina-trejo/",
+        "twitter":"https://twitter.com/intent/tweet?url=https://bussinesshmv.github.io/rm-cristina-trejo/&text=Te%20presento%20a%20regala,%20momentos.",
+        "instagram":"",
+        "github":"",
+        "pinterest":"https://pinterest.com/pin/create/button/?url=https://bussinesshmv.github.io/rm-cristina-trejo/&media=&description=Te%20presento%20a%20regala%20momentos.",
+        "linkedin":"https://www.linkedin.com/shareArticle?mini=true&url=https://bussinesshmv.github.io/rm-cristina-trejo/",
+        "mail":"mailto:info@example.com?&subject=&cc=&bcc=&body=https://bussinesshmv.github.io/rm-cristina-trejo/%0ATe%20presento%20a%20regala%20momentos.",
+        "whatsApp":"whatsapp://send?text=https://bussinesshmv.github.io/rm-cristina-trejo/"
+    }
+}
